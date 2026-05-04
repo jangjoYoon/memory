@@ -1,0 +1,17 @@
+https://github.com/jangjoYoon/aiciber.git
+https://github.com/jangjoYoon/design.git
+https://github.com/jangjoYoon/instagrem.git
+https://github.com/jangjoYoon/kodari.git
+https://github.com/jangjoYoon/lunch.git
+https://github.com/jangjoYoon/memory.git
+https://github.com/jangjoYoon/pomodoro-timer.git
+https://github.com/jangjoYoon/reo.git
+https://github.com/jangjoYoon/research.git
+https://github.com/jangjoYoon/snake.git
+https://github.com/jangjoYoon/suik.git
+https://github.com/jangjoYoon/todo.git
+https://github.com/jangjoYoon/welcome-my-world.git
+https://github.com/jangjoYoon/wiki.git
+https://github.com/jangjoYoon/youtube.git
+https://github.com/forrestchang/andrej-karpathy-skills.git
+https://github.com/byungjunjang/jangpm-meta-skills.git
