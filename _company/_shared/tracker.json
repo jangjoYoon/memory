@@ -1,0 +1,72 @@
+{
+  "tasks": [
+    {
+      "id": "20260508120522-leni",
+      "title": "모든 Flowchart 노드는 JSON 구조의 계층(Hierarchy)을 정확히 반영했는가?",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-08T12:05:22.479Z",
+      "status": "done",
+      "sessionDir": "2026-05-08T12-03",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-08T12-03/_report.md\n- Designer: Developer가 제시한 JSON 데이터 구조와 Motion Graphic 요구사항을 기반으로, 다음 영상의 최종 시각 설계안(JSON 구조 \n- Developer: Designer가 요청한 최종 기술 요구사항(JSON 구조 및 애니메이션 시퀀스)을 검토하여, Motion Graphic 제작에 필요한 모든 기\n- 레오: Business와 Designer의 최종 확정된 시스템 설계안과 수익 목표($497 가이드라인 제공)를 기반으로, 다음 영상의 최종 스크립트 및\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: Developer가 제시한 JSON 데이터 구조와 Motion Graphic 요구사항을 기반으로, 다음 영상의 최종 시각 설계안(JSON 구조 및 애니메이션 시퀀스)을 Developer에게 전달할 최종 기술 명세로 확정하고 정리하라",
+      "completedAt": "2026-05-08T12:09:46.521Z"
+    },
+    {
+      "id": "20260508120522-agky",
+      "title": "`FF8C00` 색상은 오직 **시스템의 핵심 동력**과 **최적화 경로**에만 사용되었는가?",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-08T12:05:22.496Z",
+      "status": "done",
+      "sessionDir": "2026-05-08T12-03",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-08T12-03/_report.md\n- Designer: Developer가 제시한 JSON 데이터 구조와 Motion Graphic 요구사항을 기반으로, 다음 영상의 최종 시각 설계안(JSON 구조 \n- Developer: Designer가 요청한 최종 기술 요구사항(JSON 구조 및 애니메이션 시퀀스)을 검토하여, Motion Graphic 제작에 필요한 모든 기\n- 레오: Business와 Designer의 최종 확정된 시스템 설계안과 수익 목표($497 가이드라인 제공)를 기반으로, 다음 영상의 최종 스크립트 및\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: Developer가 제시한 JSON 데이터 구조와 Motion Graphic 요구사항을 기반으로, 다음 영상의 최종 시각 설계안(JSON 구조 및 애니메이션 시퀀스)을 Developer에게 전달할 최종 기술 명세로 확정하고 정리하라",
+      "completedAt": "2026-05-08T12:09:46.533Z"
+    },
+    {
+      "id": "20260508120522-zj7h",
+      "title": "애니메이션은 정적인 다이어그램이 아닌, **실시간 시스템 작동 시뮬레이션**처럼 역동적으로 구현되었는가?",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-08T12:05:22.505Z",
+      "status": "done",
+      "sessionDir": "2026-05-08T12-03",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-08T12-03/_report.md\n- Designer: Developer가 제시한 JSON 데이터 구조와 Motion Graphic 요구사항을 기반으로, 다음 영상의 최종 시각 설계안(JSON 구조 \n- Developer: Designer가 요청한 최종 기술 요구사항(JSON 구조 및 애니메이션 시퀀스)을 검토하여, Motion Graphic 제작에 필요한 모든 기\n- 레오: Business와 Designer의 최종 확정된 시스템 설계안과 수익 목표($497 가이드라인 제공)를 기반으로, 다음 영상의 최종 스크립트 및\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: Developer가 제시한 JSON 데이터 구조와 Motion Graphic 요구사항을 기반으로, 다음 영상의 최종 시각 설계안(JSON 구조 및 애니메이션 시퀀스)을 Developer에게 전달할 최종 기술 명세로 확정하고 정리하라",
+      "completedAt": "2026-05-08T12:09:46.543Z"
+    },
+    {
+      "id": "20260508120522-0w7n",
+      "title": "최종 결과물(Output)로의 흐름이 명확하고 강력하게 시각화되어 CTR 극대화 목표를 달성하는가?",
+      "description": "자동 등록 (Designer 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "designer"
+      ],
+      "createdAt": "2026-05-08T12:05:22.517Z",
+      "status": "done",
+      "sessionDir": "2026-05-08T12-03",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-08T12-03/_report.md\n- Designer: Developer가 제시한 JSON 데이터 구조와 Motion Graphic 요구사항을 기반으로, 다음 영상의 최종 시각 설계안(JSON 구조 \n- Developer: Designer가 요청한 최종 기술 요구사항(JSON 구조 및 애니메이션 시퀀스)을 검토하여, Motion Graphic 제작에 필요한 모든 기\n- 레오: Business와 Designer의 최종 확정된 시스템 설계안과 수익 목표($497 가이드라인 제공)를 기반으로, 다음 영상의 최종 스크립트 및\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: Developer가 제시한 JSON 데이터 구조와 Motion Graphic 요구사항을 기반으로, 다음 영상의 최종 시각 설계안(JSON 구조 및 애니메이션 시퀀스)을 Developer에게 전달할 최종 기술 명세로 확정하고 정리하라",
+      "completedAt": "2026-05-08T12:09:46.555Z"
+    }
+  ]
+}
