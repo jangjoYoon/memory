@@ -1,5 +1,7 @@
 # 📋 통합 스케줄
-_업데이트: 2026. 5. 12. 오전 12:07:29_
+_업데이트: 2026. 5. 12. 오전 12:22:34_
+
+## 📅 사람 일정 (Google Calendar)
 
 ## 🤖 에이전트 최근 활동
 ### 📺 레오
@@ -10,13 +12,13 @@ _업데이트: 2026. 5. 12. 오전 12:07:29_
 - [2026-05-04] 작성된 콘텐츠를 기반으로 최적의 게시 시간, 해시태그 전략, 그리고 인게이지먼트 극대화를 위한 게시물 배포 계획을 수립합니다. 특히 잠재 고객 리드 확보를 위한 CTA(Call to Action) 구체화에 집중합니다. → 산출물 sessions/2026-05-04T02-33/instagram.md
 - [2026-05-04] 수립된 최적 게시 시간 및 해시태그 전략에 따라 다음 주 콘텐츠 배포 일정을 역산하고, Reels 후크와 피드 카피를 최종 검토하여 실행 준비를 완료합니다. → 산출물 sessions/2026-05-04T03-14/instagram.md
 ### 🎨 Designer
-- [2026-05-11] Developer가 준비한 Motion Graphic 제작 파일 및 가이드라인을 바탕으로 영상 렌더링에 필요한 모든 시각 파일과 동적 시뮬레이션 로직을 즉시 완료하여 Developer에게 전달하라. → 산출물 sessions/2026-05-11T11-05/designer.md
 - [2026-05-11] 이전 세션에서 확정된 '수익화 엔진 컨셉 3'를 기반으로, 다음 영상 제작에 필요한 구체적인 Shot List 및 B-roll 계획을 작성하고 시각 자료 준비를 즉시 시작하라. → 산출물 sessions/2026-05-11T13-22/designer.md
 - [2026-05-11] ShotList_Engine_Blueprint.md 파일에 명시된 FF8C00 원칙과 시각 흐름을 기반으로 Motion Graphic 영상 제작을 위한 최종 시각 파일 및 로직을 즉시 완료하고 Developer에게 전달할 준비를 하라. → 산출물 sessions/2026-05-11T15-03/designer.md
+- [2026-05-11] Developer에게 Motion Graphic 제작에 필요한 최종 시각 파일 및 로직(Flowchart, Logic Script)을 전달하고 후속 작업을 대기하라. → 산출물 sessions/2026-05-11T15-18/designer.md
 ### 💻 코다리
-- [2026-05-11] Designer가 전달한 최종 기술적 안정성 보고서(`sessions/2026-05-11T10-05/designer.md`, `sessions/2026-05-11T10-20/developer.md`)를 기반으로 Motion Graphic 영상 렌더링을 즉시 실행하고 기술적 안정성 보고서를 기반으로 최종 실행 승인을 내라. → 산출물 sessions/2026-05-11T11-05/developer.md
 - [2026-05-11] YouTube 영상에 대한 제목, 설명, 태그 등 모든 메타데이터가 채널 정체성과 수익 목표($497)에 완벽하게 부합하도록 최종 점검하고 업로드 실행 준비를 완료하라. → 산출물 sessions/2026-05-11T11-20/developer.md
 - [2026-05-11] Designer가 제공한 기술적 안정성 보고서와 ShotList_Engine_Blueprint.md를 기반으로 Motion Graphic 영상 렌더링을 즉시 실행하고, 결과물에 대한 기술적 안정성 검증을 완료하라. → 산출물 sessions/2026-05-11T15-03/developer.md
+- [2026-05-11] Designer가 제공한 최종 시각 파일 및 로직 패키지(`final_motion_graphic_package.md`)를 수령하고 Motion Graphic 영상 렌더링을 즉시 실행하라. → 산출물 sessions/2026-05-11T15-18/developer.md
 ### 💼 현빈
 - [2026-05-11] 수집된 경쟁사 ROI 데이터를 기반으로 Tiered Pricing 모델의 최적 가격 포지셔닝을 최종 확정하고, 수익화 전략 자료를 구체화하여 다음 단계 실행을 준비하라. → 산출물 sessions/2026-05-11T06-50/business.md
 - [2026-05-11] 다음 주 플레이리스트 기획서 3개를 위한 핵심 주제 및 수익 목표를 설정하는 초기 전략을 수립하라. → 산출물 sessions/2026-05-11T11-35/business.md
