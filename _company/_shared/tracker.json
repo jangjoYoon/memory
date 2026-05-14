@@ -152,6 +152,74 @@
       "preAlarmsSent": [],
       "evidence": "완료: sessions/2026-05-11T10-35/_report.md\n- 영숙: 수요일 오후 2시 업로드를 위한 최종 검토 목록(체크리스트)을 생성하고, Designer 및 Developer에게 필요한 최종 품질 확인 요청 \n- 레오: 생성된 체크리스트를 기반으로 수요일 오후 2시 업로드에 필요한 모든 메타데이터(제목, 설명, 태그)의 최종 검토 및 실행 준비를 완료하라.\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 📱 영숙 _(비서 · Personal Assistant)_\n> 📋 **지시**: 수요일 오후 2시 업로드를 위한 최종 검토 목록(체크리스트)을 생성하고, Designer 및 Developer에게 필요한 최종 품질 확인 요청 사항을 정리하여 전달하라.\n> 🔧 **도구 실행**: _(없음 — LLM 추론만",
       "completedAt": "2026-05-11T10:38:43.179Z"
+    },
+    {
+      "id": "20260513124656-x47g",
+      "title": "영상 스크립트와 시각 가이드라인이 완벽히 일치하는가? (Writer/Designer 확인 필요)",
+      "description": "자동 등록 (레오 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "youtube"
+      ],
+      "createdAt": "2026-05-13T12:46:56.227Z",
+      "status": "done",
+      "sessionDir": "2026-05-13T12-42",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-13T12-42/_report.md\n- Designer: Writer가 제공한 최종 카피와 YouTube의 시각적 가이드라인을 통합하여, 시스템 안정성(Fallback Logic)을 강조하는 최종 Mo\n- Writer: A/B 테스트 항목(헤드라인, CTA 문구)에 대한 구체적인 카피를 작성하고, 최종 랜딩 페이지 구축을 위한 디자인 작업에 필요한 모든 텍스트 \n- 레오: 최종 Motion Graphic 패키지 및 시각 가이드라인을 바탕으로 영상 배포 전 시스템 안정성(Fallback Logic) 강조 영상을 최종\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: Writer가 제공한 최종 카피와 YouTube의 시각적 가이드라인을 통합하여, 시스템 안정성(Fallback Logic)을 강조하는 최종 Motion Graphic 패키지를 제작하고 랜딩 페이지 디자인 작업을 완료하라.\n> 🔧 ",
+      "completedAt": "2026-05-13T12:47:49.650Z"
+    },
+    {
+      "id": "20260513124656-eqmq",
+      "title": "FF8C00 색상이 핵심 흐름과 KPI에 일관되게 적용되었는가? (Designer 확인 필요)",
+      "description": "자동 등록 (레오 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "youtube"
+      ],
+      "createdAt": "2026-05-13T12:46:56.236Z",
+      "status": "done",
+      "sessionDir": "2026-05-13T12-42",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-13T12-42/_report.md\n- Designer: Writer가 제공한 최종 카피와 YouTube의 시각적 가이드라인을 통합하여, 시스템 안정성(Fallback Logic)을 강조하는 최종 Mo\n- Writer: A/B 테스트 항목(헤드라인, CTA 문구)에 대한 구체적인 카피를 작성하고, 최종 랜딩 페이지 구축을 위한 디자인 작업에 필요한 모든 텍스트 \n- 레오: 최종 Motion Graphic 패키지 및 시각 가이드라인을 바탕으로 영상 배포 전 시스템 안정성(Fallback Logic) 강조 영상을 최종\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: Writer가 제공한 최종 카피와 YouTube의 시각적 가이드라인을 통합하여, 시스템 안정성(Fallback Logic)을 강조하는 최종 Motion Graphic 패키지를 제작하고 랜딩 페이지 디자인 작업을 완료하라.\n> 🔧 ",
+      "completedAt": "2026-05-13T12:47:49.659Z"
+    },
+    {
+      "id": "20260513124656-g1h0",
+      "title": "후크 문구(Hook)가 첫 30초 내 시청자의 이탈을 막을 수 있는가? (Hook Analyzer 결과 반영)",
+      "description": "자동 등록 (레오 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "youtube"
+      ],
+      "createdAt": "2026-05-13T12:46:56.246Z",
+      "status": "done",
+      "sessionDir": "2026-05-13T12-42",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-13T12-42/_report.md\n- Designer: Writer가 제공한 최종 카피와 YouTube의 시각적 가이드라인을 통합하여, 시스템 안정성(Fallback Logic)을 강조하는 최종 Mo\n- Writer: A/B 테스트 항목(헤드라인, CTA 문구)에 대한 구체적인 카피를 작성하고, 최종 랜딩 페이지 구축을 위한 디자인 작업에 필요한 모든 텍스트 \n- 레오: 최종 Motion Graphic 패키지 및 시각 가이드라인을 바탕으로 영상 배포 전 시스템 안정성(Fallback Logic) 강조 영상을 최종\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: Writer가 제공한 최종 카피와 YouTube의 시각적 가이드라인을 통합하여, 시스템 안정성(Fallback Logic)을 강조하는 최종 Motion Graphic 패키지를 제작하고 랜딩 페이지 디자인 작업을 완료하라.\n> 🔧 ",
+      "completedAt": "2026-05-13T12:47:49.668Z"
+    },
+    {
+      "id": "20260513124656-0o7m",
+      "title": "제목과 키워드가 검색 의도와 채널 권위를 동시에 충족하는가?",
+      "description": "자동 등록 (레오 산출물에서 추출)",
+      "owner": "agent",
+      "agentIds": [
+        "youtube"
+      ],
+      "createdAt": "2026-05-13T12:46:56.250Z",
+      "status": "done",
+      "sessionDir": "2026-05-13T12-42",
+      "nudges": 0,
+      "priority": "normal",
+      "preAlarmsSent": [],
+      "evidence": "완료: sessions/2026-05-13T12-42/_report.md\n- Designer: Writer가 제공한 최종 카피와 YouTube의 시각적 가이드라인을 통합하여, 시스템 안정성(Fallback Logic)을 강조하는 최종 Mo\n- Writer: A/B 테스트 항목(헤드라인, CTA 문구)에 대한 구체적인 카피를 작성하고, 최종 랜딩 페이지 구축을 위한 디자인 작업에 필요한 모든 텍스트 \n- 레오: 최종 Motion Graphic 패키지 및 시각 가이드라인을 바탕으로 영상 배포 전 시스템 안정성(Fallback Logic) 강조 영상을 최종\n\nCEO 종합 요점: ## 🗂 작업 라운드 — 누가 뭐 했나\n\n### 🎨 Designer _(Lead Designer)_\n> 📋 **지시**: Writer가 제공한 최종 카피와 YouTube의 시각적 가이드라인을 통합하여, 시스템 안정성(Fallback Logic)을 강조하는 최종 Motion Graphic 패키지를 제작하고 랜딩 페이지 디자인 작업을 완료하라.\n> 🔧 ",
+      "completedAt": "2026-05-13T12:47:49.677Z"
     }
   ]
 }
