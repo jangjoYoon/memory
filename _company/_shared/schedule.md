@@ -1,5 +1,5 @@
 # 📋 통합 스케줄
-_업데이트: 2026. 5. 15. 오후 12:16:35_
+_업데이트: 2026. 5. 15. 오후 8:59:49_
 
 ## 📅 사람 일정 (Google Calendar)
 
@@ -13,13 +13,13 @@ _업데이트: 2026. 5. 15. 오후 12:16:35_
 - [2026-05-15] Writer의 카피 초안을 바탕으로, 잠재 고객 리드 확보를 극대화할 수 있는 최적의 게시 시간, 해시태그 전략, 그리고 Reels 후크를 최종 검토하여 배포 계획을 확정하세요. → 산출물 sessions/2026-05-15T02-42/instagram.md
 - [2026-05-15] 확정된 배포 계획과 후크를 활용하여 콘텐츠 초안(Reels 스크립트, 캡션)을 작성하고, 스토리에서 잠재 고객 리드 확보 CTA를 강조하는 방식으로 게시물 준비를 완료하라. → 산출물 sessions/2026-05-15T02-57/instagram.md
 ### 🎨 Designer
-- [2026-05-15] Writer가 제시한 최종 영상 스크립트와 #FF8C00 Flow Visualization 가이드라인을 기반으로 Motion Graphic 제작에 필요한 구체적인 Shot List 및 비주얼 흐름을 완성하세요. → 산출물 sessions/2026-05-15T02-42/designer.md
-- [2026-05-15] 확정된 Shot List와 Flow Visualization을 기반으로 Motion Graphic 제작을 즉시 시작하고, 시스템 안정성을 '프리미엄 성장 엔진 구축'의 시각적 여정으로 구현하는 데 집중하여 초안을 완성하라. → 산출물 sessions/2026-05-15T02-57/designer.md
 - [2026-05-15] 확정된 Shot List와 Flow Visualization을 기반으로 Motion Graphic 제작을 즉시 시작하고, 시스템 안정성을 '프리미엄 성장 엔진 구축'의 시각적 여정으로 구현하는 초안을 완성하라. → 산출물 sessions/2026-05-15T03-12/designer.md
+- [2026-05-15] Developer가 준비하는 Shot List와 Flow Visualization을 기반으로 Motion Graphic 제작에 필요한 모든 입력 자료(Asset)를 최종적으로 정리하고, 외부 렌더링 팀에게 전달할 최종 패키지를 완성하세요. → 산출물 sessions/2026-05-15T11-41/designer.md
+- [2026-05-15] Developer가 제공하는 최종 입력 자료 패키지(`Final_Motion_Graphic_Package_For_Render.md`)의 내용이 외부 렌더링 팀에게 전달하기에 완벽한지 최종 검토하고 승인할 것. → 산출물 sessions/2026-05-15T11-56/designer.md
 ### 💻 코다리
-- [2026-05-14] ‘exit 9009’ 오류의 근본 원인을 분석하고 시스템 안정성을 위한 재실행 스크립트를 완성하여 최종적으로 모든 프로세스를 성공적으로 재실행하도록 완료하라. → 산출물 sessions/2026-05-14T23-42/developer.md
-- [2026-05-15] 코다리야 병아리 게임 만들어줘 → 산출물 sessions/2026-05-15T02-44/developer.md
 - [2026-05-15] Motion Graphic 최종 렌더링 및 배포를 위한 기술적 프로세스를 점검하고, 코다리가 담당할 부분에 대한 실행 계획을 수립하라. → 산출물 sessions/2026-05-15T03-12/developer.md
+- [2026-05-15] Motion Graphic 최종 렌더링 및 배포를 위한 기술적 프로세스 점검 계획에 따라, 파일 경로 오류 수정 및 `pack_apply.py` 스크립트의 최종 로직 검토를 재실행하여 기술적 준비를 완료하고, Designer에게 전달할 최종 입력 자료 패키지를 준비하세요. → 산출물 sessions/2026-05-15T11-41/developer.md
+- [2026-05-15] Motion Graphic 제작을 위한 `pack_apply.py` 스크립트의 `exit 9009` 오류 근본 원인을 분석하고, 코드 안정성을 확보하여 기술적 준비를 완료할 것. → 산출물 sessions/2026-05-15T11-56/developer.md
 ### 💼 현빈
 - [2026-05-15] Writer가 제시한 마케팅 카피 초안들을 기반으로, $49-$99 가격 포지셔닝에 가장 적합한 핵심 CTA(Call to Action)와 전환율을 높일 수 있는 구체적인 제안 3가지를 도출하라. → 산출물 sessions/2026-05-15T01-12/business.md
 - [2026-05-15] Writer와 Designer가 제시한 Tier 1, 2, 3 상품에 대한 구체적인 서비스 패키지(Deliverables) 정의 및 수익화 전략을 최종 확정하고 마케팅 자산과 연계하여 최종 수익화 모델을 완성하라. → 산출물 sessions/2026-05-15T01-42/business.md
