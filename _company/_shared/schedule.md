@@ -1,5 +1,5 @@
 # 📋 통합 스케줄
-_업데이트: 2026. 5. 18. 오전 11:37:27_
+_업데이트: 2026. 5. 18. 오전 11:46:01_
 
 ## 📅 사람 일정 (Google Calendar)
 
@@ -13,9 +13,9 @@ _업데이트: 2026. 5. 18. 오전 11:37:27_
 - [2026-05-15] 확정된 배포 계획과 후크를 활용하여 콘텐츠 초안(Reels 스크립트, 캡션)을 작성하고, 스토리에서 잠재 고객 리드 확보 CTA를 강조하는 방식으로 게시물 준비를 완료하라. → 산출물 sessions/2026-05-15T02-57/instagram.md
 - [2026-05-18] 확정된 배포 계획과 후크를 활용하여 콘텐츠 초안(Reels 스크립트, 캡션)을 작성하고, 스토리에서 잠재 고객 리드 확보 CTA를 강조하는 방식으로 게시물 준비를 완료해야 합니다. → 산출물 sessions/2026-05-18T02-29/instagram.md
 ### 🎨 Designer
-- [2026-05-15] Developer가 준비하는 Shot List와 Flow Visualization을 기반으로 Motion Graphic 제작에 필요한 모든 입력 자료(Asset)를 최종적으로 정리하고, 외부 렌더링 팀에게 전달할 최종 패키지를 완성하세요. → 산출물 sessions/2026-05-15T11-41/designer.md
 - [2026-05-15] Developer가 제공하는 최종 입력 자료 패키지(`Final_Motion_Graphic_Package_For_Render.md`)의 내용이 외부 렌더링 팀에게 전달하기에 완벽한지 최종 검토하고 승인할 것. → 산출물 sessions/2026-05-15T11-56/designer.md
 - [2026-05-15] Developer가 제공한 최종 입력 자료 패키지(`Final_Motion_Graphic_Package_For_Render.md`)의 완벽성을 재검토하고, 외부 렌더링 팀에게 즉시 전달할 수 있도록 모든 디자인 및 브랜드 원칙이 정확히 반영되었는지 최종 승인하라. → 산출물 sessions/2026-05-15T12-11/designer.md
+- [2026-05-18] Motion Graphic 최종 패키지(`Final_Motion_Graphic_Package_For_Render.md`)에 대한 외부 렌더링 팀의 승인 결과를 즉시 확보하고, 그 결과를 CEO에게 보고하라. → 산출물 sessions/2026-05-18T02-44/designer.md
 ### 💻 코다리
 - [2026-05-15] Motion Graphic 제작을 위한 `pack_apply.py` 스크립트의 `exit 9009` 오류 근본 원인을 분석하고, 코드 안정성을 확보하여 기술적 준비를 완료할 것. → 산출물 sessions/2026-05-15T11-56/developer.md
 - [2026-05-15] Motion Graphic 제작에 필요한 최종 입력 자료 패키지(`Final_Motion_Graphic_Package_For_Render.md`)의 기술적 안정성을 100% 확보하고, 외부 렌더링 팀 전달을 위한 모든 파일 경로 및 스크립트 로직을 최종 검증하여 즉시 전달 준비를 완료하라. → 산출물 sessions/2026-05-15T12-11/developer.md
