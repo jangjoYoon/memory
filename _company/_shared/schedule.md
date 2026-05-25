@@ -1,5 +1,5 @@
 # 📋 통합 스케줄
-_업데이트: 2026. 5. 25. 오전 10:31:40_
+_업데이트: 2026. 5. 25. 오전 10:44:09_
 
 ## 📅 사람 일정 (Google Calendar)
 
@@ -13,13 +13,13 @@ _업데이트: 2026. 5. 25. 오전 10:31:40_
 - [2026-05-18] 확정된 배포 계획과 후크를 활용하여 콘텐츠 초안(Reels 스크립트, 캡션)을 작성하고, 스토리에서 잠재 고객 리드 확보 CTA를 강조하는 방식으로 게시물 준비를 완료해야 합니다. → 산출물 sessions/2026-05-18T02-29/instagram.md
 - [2026-05-25] Instagram은 Writer가 제공한 최종 카피를 기반으로, 릴스 스크립트 및 피드 게시물용 캡션/해시태그 세트를 최적화하여 외부 승인 결과를 기다리는 동안 즉시 배포 준비를 완료하라. → 산출물 sessions/2026-05-25T01-25/instagram.md
 ### 🎨 Designer
-- [2026-05-19] Motion Graphic 최종 패키지 승인 결과를 지속적으로 모니터링하고, 결과가 도착하는 즉시 CEO에게 알림이 가는 보고 채널(텔레그램) 설정이 정상 상태로 유지되도록 확인한다. → 산출물 sessions/2026-05-19T03-57/designer.md
 - [2026-05-25] Motion Graphic 최종 패키지 승인 결과를 실시간으로 모니터링하여 대기 시간을 최소화하고, 승인 즉시 영상 제작이 가능하도록 준비 상태를 유지하라. → 산출물 sessions/2026-05-25T00-36/designer.md
 - [2026-05-25] Motion Graphic 최종 패키지 승인 결과를 기다리며, 영상 제작을 위한 기술적 흐름(`Final_Motion_Graphic_Package_For_Render.md`, `ShotList_Engine_Blueprint.md`)의 검증을 완료하고 '준비 상태'를 유지합니다. → 산출물 sessions/2026-05-25T01-10/designer.md
+- [2026-05-25] Motion Graphic 승인 결과를 즉시 수신할 경우를 대비하여, 유튜브 영상에 사용될 최종 썸네일 디자인 초안(클릭률 극대화 전략 반영)을 즉시 생성하고 준비 상태를 유지하라. → 산출물 sessions/2026-05-25T01-40/designer.md
 ### 💻 코다리
-- [2026-05-19] Motion Graphic 제작을 위한 최종 입력 자료 패키지(`Final_Motion_Graphic_Package_For_Render.md`)의 파일 경로 및 기술적 흐름에 대한 최종 검증을 완료하고, 외부 전달 준비를 100% 마칩니다. → 산출물 sessions/2026-05-19T01-42/developer.md
 - [2026-05-25] Motion Graphic 관련 파일 경로 및 기술적 흐름에 대한 검증을 지속하며, 외부 승인 결과 수신 시 즉시 콘텐츠 제작을 위한 시스템 안정성을 확보하라. → 산출물 sessions/2026-05-25T00-36/developer.md
 - [2026-05-25] 외부 승인 결과 수신 시 즉시 제작 착수를 위한 기술적 흐름 및 자산 완벽 검증(1단계)과 대기 시간 활용 콘텐츠 전략 준비를 최종 확인하고 시스템 안정성을 확보합니다. → 산출물 sessions/2026-05-25T01-10/developer.md
+- [2026-05-25] Motion Graphic 승인 결과 수신 시 즉시 제작 착수가 가능하도록, 영상 제작을 위한 기술적 흐름(`Final_Motion_Graphic_Package_For_Render.md`, `ShotList_Engine_Blueprint.md`)의 최종 검증 및 시스템 안정성을 확보하라. → 산출물 sessions/2026-05-25T01-40/developer.md
 ### 💼 현빈
 - [2026-05-19] Motion Graphic 최종 패키지 승인 결과 수신 시, 구독자 10만 도달 목표 달성을 위한 다음 영상 주제 및 수익화 전략을 3가지 옵션으로 준비하라. → 산출물 sessions/2026-05-19T02-57/business.md
 - [2026-05-19] Motion Graphic 승인 결과에 따라 현빈이 제안한 최우선 영상 주제 중 하나를 선정하고, 해당 주제에 대한 구체적인 가격 책정 모델(Tiered Pricing) 초안을 최종 확정하여 Writer에게 전달할 준비를 하라. → 산출물 sessions/2026-05-19T03-12/business.md
