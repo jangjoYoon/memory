@@ -3076,5 +3076,21 @@
     "category": "marketing",
     "source": "me",
     "verified": true
+  },
+  {
+    "id": "n17821761185508180",
+    "text": "[운영 2026-06-23 사이클#15] Researcher: 유튜브 Data API를 통해 최근 30일간의 트렌드 영상 5개를 수집하고, 로컬 LLM에게 각 영상의 후킹 / Writer: 도출된 주제 중 가장 높은 잠재적 시청자 유지율을 보일 것으로 예상되는 주제 하나를 선정하고, 해당 주제에  (오늘업무_2026-06-23/스크립트.md)",
+    "tags": [
+      "2026",
+      "주제",
+      "운영",
+      "사이클",
+      "researcher",
+      "유튜브"
+    ],
+    "ts": 1782176118550,
+    "category": "marketing",
+    "source": "agent",
+    "verified": true
   }
 ]
